@@ -266,7 +266,7 @@ p {
 
 img.rounded {
     border-radius: 6px!important;
-    border-width: 1px;
+    border-width: 2px;
     border-color: black;
     border-style: solid;
     box-shadow: 0 5px 20px 0 #555;
